@@ -1,6 +1,7 @@
 # Octera Theses
 | Student | Title | Type | Year | DSpace URL |
 |----|----|----|---|---|
+| Ahmed Musa Awon | Self-admitted scientific debt: Navigating cross-domain challenges in scientific software | Msc. | 2024 | https://hdl.handle.net/1828/20587 |
 | Amirreza Ghorbani | Balancing Autonomy and Persona: Investigating Developer Preferences for Effective Human-Bot Interaction | MSc. | 2023 | http://hdl.handle.net/1828/15684 |
 | Rohith Pudari | AI Supported Software Development: Moving Beyond Code Completion | Msc. | 2022 | http://dspace.library.uvic.ca/handle/1828/14155 |
 | Roshan Lasrado | [Exploring Design Discussions With Semi-Supervised Topic Modelling](https://dspace.library.uvic.ca/bitstream/handle/1828/14092/Lasrado_Roshan_MSc_2022.pdf?sequence=1&isAllowed=y) | MSc. | 2022 | http://hdl.handle.net/1828/14092 |
