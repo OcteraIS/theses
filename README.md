@@ -1,6 +1,8 @@
 # Octera Theses
 | Student | Title | Type | Year | DSpace URL |
 |----|----|----|---|---|
+| Aidan Wright | A machine learning approach for the detection of kelp-encrusting bryozoans in UAV-derived low altitude imagery | MSc | 2025 | https://hdl.handle.net/1828/22800 |
+| Zane Li | Exploring automation of the development of requirements from user feedback | PhD | 2025 | https://hdl.handle.net/1828/22523 |
 | Ahmed Musa Awon | Self-admitted scientific debt: Navigating cross-domain challenges in scientific software | Msc. | 2024 | https://hdl.handle.net/1828/20587 |
 | Amirreza Ghorbani | Balancing Autonomy and Persona: Investigating Developer Preferences for Effective Human-Bot Interaction | MSc. | 2023 | http://hdl.handle.net/1828/15684 |
 | Rohith Pudari | AI Supported Software Development: Moving Beyond Code Completion | Msc. | 2022 | http://dspace.library.uvic.ca/handle/1828/14155 |
